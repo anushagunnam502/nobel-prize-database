@@ -1,0 +1,12 @@
+winner_id,first_name,last_name,gender,birth_date,death_date,country_id
+160,Jacobus Henricus vant,Hoff,Male,1852-08-30,1911-03-01,1
+569,Sully,Prudhomme,Male,1839-03-16,1907-09-07,2
+293,Emil Adolf von,Behring,Male,1854-03-15,1917-03-31,3
+462,Jean Henry,Dunant,Male,1828-05-08,1910-10-30,4
+463,Frederic,Passy,Male,1822-05-20,1912-06-12,2
+1,Wilhelm Conrad,Rontgen,Male,1845-03-27,1923-02-10,5
+161,Hermann Emil,Fischer,Male,1852-10-09,1919-07-15,5
+571,Christian Matthias Theodor,Mommsen,Male,1817-11-30,1903-11-01,6
+294,Ronald,Ross,Male,1857-05-13,1932-09-16,7
+464,Elie,Ducommun,Male,1833-02-19,1906-12-07,4
+180,Chandrasekhara Venkata Raman,Ramanathan Iyer,Male,1888-11-07,1970-11-21,7
