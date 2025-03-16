@@ -1,0 +1,6 @@
+event_id,event_name,event_type,event_date,location,prize_id,conference_id,description
+1,Nobel Ceremony 1921,Nobel Ceremony,1921-12-10,"Stockholm, Sweden",1,1,Annual prize award ceremony.
+2,Nobel Ceremony 1903,Nobel Ceremony,1903-12-10,"Stockholm, Sweden",2,2,Recognition of physics and chemistry achievements.
+3,Physics Symposium,Scientific Conference,1965-06-15,USA,3,3,Discussion on quantum mechanics.
+4,Peace Conference,Peace Conference,2014-09-10,Norway,4,4,Focus on global peace initiatives.
+5,Literature Forum,Literature Event,1964-05-20,France,5,5,Celebration of literature contributions.

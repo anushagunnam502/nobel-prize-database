@@ -1,0 +1,6 @@
+media_id,prize_id,media_type,title,publication_date,source,url
+1,1,Interview,Einstein on Science and Humanity,1922-01-15,Scientific American,https://example.com/einstein
+2,2,Documentary,Marie Curie: A Radioactive Life,1904-02-20,BBC,https://example.com/mariecurie
+3,3,News Article,Feynman’s Contributions to Physics,1965-08-30,Nature,https://example.com/feynman
+4,4,Podcast,Malala’s Nobel Journey,2014-12-05,NPR,https://example.com/malala
+5,5,Research Paper,MLK’s Dream and Nobel Prize,1964-10-15,The Guardian,https://example.com/mlk
